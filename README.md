@@ -1,5 +1,7 @@
 # EESSI Tutorial
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21476425.svg)](https://doi.org/10.5281/zenodo.21476425)
+
 This tutorial introduces the **European Environment for Scientific Software Installations (EESSI)** and shows how to 
 access and use scientific software through a shared, portable software stack.
 
